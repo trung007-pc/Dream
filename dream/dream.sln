@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dream", "dream\dream.csproj", "{0CE98348-C9CB-421D-987D-14A48D1819DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE98348-C9CB-421D-987D-14A48D1819DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE98348-C9CB-421D-987D-14A48D1819DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE98348-C9CB-421D-987D-14A48D1819DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE98348-C9CB-421D-987D-14A48D1819DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
